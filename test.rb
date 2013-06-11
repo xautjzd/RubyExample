@@ -3,7 +3,7 @@
 class A 
     private
     def hello
-        puts "hello"
+        puts "hello world"
     end
     def test
         puts "test"
